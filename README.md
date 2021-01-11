@@ -5,5 +5,8 @@ This project attempted to make an analysis of FDI in India and its impact on gro
 
 ## Dashboards
 
-(1) FDI Sector Analysis Dashboard
+### (1) FDI Sector Analysis Dashboard
 ![](images/d1.PNG)
+
+### (2) Trends of FDI Dashboard
+![](images/d2.PNG)
